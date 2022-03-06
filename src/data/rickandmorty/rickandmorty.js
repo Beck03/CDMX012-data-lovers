@@ -5,7 +5,7 @@ export default {
       "next": "https://rickandmortyapi.com/api/character/?page=2",
       "prev": ""
   },
-  "results": [
+  "results": [  
       {
           "id": 1,
           "name": "Rick Sanchez",
